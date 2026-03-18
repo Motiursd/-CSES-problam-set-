@@ -1,2 +1,2 @@
 # -CSES-problam-set-
-"Solutions for CSES Problem Set (Weird Algorithm) in C++"
+"Solutions for CSES Problem Set in C++"
